@@ -1,2 +1,2 @@
 # NEW-REPOSTORY
-ejemplo de clase
+ejemplo de clase, mi primera contribucion de codigo.
